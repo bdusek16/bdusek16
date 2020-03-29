@@ -1,0 +1,6 @@
+River
+Robber (Food)
+Sickness (variable)
+Successful hunt
+Trader
+
