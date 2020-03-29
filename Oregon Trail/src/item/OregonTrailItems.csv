@@ -1,0 +1,11 @@
+Name,Weight (lbs),Is Food?
+Food,0.00,true
+Rifle,7.00,false
+Knife,1.00,false
+Shovel,6.00,false
+Rake,2.00,false
+Saw,3.00,false
+Axe,5.00,false
+Mallet,4.00,false
+Corn Seed,0.00,true
+Wheat,0.00,true
