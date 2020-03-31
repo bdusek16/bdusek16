@@ -37,6 +37,7 @@ public class Item {
     {
         this.cumulativeWeight += weight;
     }
+   
     
     public boolean isFood()
     {
@@ -95,8 +96,8 @@ public class Item {
         for(int i = 0; i < quantity; i++)
         {
             String oneItem;
-            oneItem = "" + weight;
-            while(oneItem.length() < 10)
+            oneItem = "  " + weight;
+            while(oneItem.length() < 12)
             {
                 oneItem += " ";
             }

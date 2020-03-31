@@ -265,8 +265,8 @@ InputStreamReader itemScr = null;
                     itemsCarried.add(items.get(i));
                 }
             }
-            OregonTrailExperience oregonTrailExperience = new OregonTrailExperience(itemsCarried);
-            oregonTrailExperience.setVisible(true);
+            PlayerUI playerUI = new  PlayerUI(itemsCarried);
+            playerUI.setVisible(true);
             this.dispose();
         }
         for(int i = 0; i < items.size(); i++)
